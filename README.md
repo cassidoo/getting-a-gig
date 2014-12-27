@@ -39,6 +39,9 @@ I know that lifeguarding in high school was a good gig that helped you gain peop
 # Your Skills
 ## Building Them
 ## Selling Them
+Which sounds better?
+a. Web designer for club website
+b. Developed and maintained website for engineering club using HTML, CSS, Javascript, and JQuery to promote the club and give members crucial updates about meetings and events. In three months, our club gained 23 new members, and the website received 5000 hits.
 # Your Search
 ## Events
 ## Networking
