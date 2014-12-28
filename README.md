@@ -23,16 +23,25 @@ This is a guide for getting a gig in college as a tech major.  I just graduated 
 
 # Your Resume
 
-Your resume is your sales pitch.  Your resume is the thing that gets your foot in the door.  So, there's a few things you should do (and not do) to make it awesome, like you.
+Your resume is your personal summary sheet.  Your resume is the thing that gets your foot in the door.  So, there's a few things you should do (and not do) to make it as awesome as you are.
 
-### Make your name *BIG*.
+### Make your name **BIG.**
 Your name has to stand out from everything else, because you want it to be remembered.  Making it the biggest thing on the page is the easiest thing you can do to make that possible.  I've seen soooo many resumes where the name is at the top, but it's just bolded and centered and they expect that to be enough.  It's not.  
 
 ### Remove the objective.
 Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
 
-### Remove irrelevant work experience.
+### Remove irrelevant information.
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
+When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
+
+### Include only certain personal information.
+Companies aren't allowed to ask about your religion, marital status, or race/ethnicity, so you shouldn't include that.  
+
+In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
+Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
+
+Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both.  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
 
 # Your Cover Letter
 
