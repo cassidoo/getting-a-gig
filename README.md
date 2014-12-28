@@ -41,9 +41,9 @@ I know that lifeguarding in high school was a good gig that helped you gain peop
 ## Selling Them
 Which sounds better?
 
->a. Web designer for club website
+a. Web designer for club website
 
->b. Developed and maintained website for engineering club using HTML, CSS, Javascript, and JQuery to promote the club and give members crucial updates about meetings and events. In three months, our club gained 23 new members, and the website received 5000 hits.
+b. Developed and maintained website for engineering club using HTML, CSS, Javascript, and JQuery to promote the club and give members crucial updates about meetings and events. In three months, our club gained 23 new members, and the website received 5000 hits.
 
 It's obvious - b sounds way better. Having skills and experience is one thing. Selling them is an entirely different art. When you're describing a skill - whether it's on a resume or in an interview - let's go back to English class, and as "Who?", "What?", "Where?", "When?", and "Why?" For our purposes, "How much" or "To what extent" might be useful.
 
