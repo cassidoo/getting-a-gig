@@ -35,6 +35,29 @@ Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recrui
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
 
 # Your Cover Letter
+
+Your cover letter is your written sales pitch.  You've got a resume that summarizes everything.  Now you have to write out a more complete, professional description of you and what you can offer a given company.  Here's a sample cover letter to get you started:
+
+```
+Dear _________,
+
+I hope your day is going well! My name is _________, and I'm a _________ at _________. I am very interested in working for _________ next _________. Your commitment to _________ and _________ that I saw on the website inspired me! The products you build and the values you stand for make _________ seem like an ideal workplace for me.
+A little about me, I [insert relevant work experience, extracurriculars, and projects here]. I think these experiences would make me a great candidate for you.
+
+Please let me know if there's anything else you need from me. I look forward to hearing from you! I can be reached at _________ and _________.
+
+Best regards,
+_________
+```
+Now, remember, this is just a sample.  You can write a cover letter in any format you'd like.  But, you should be sure to include the following:
+
+- **Who** - Who you are.  Easy enough.
+- **Where** - Where you're coming from.
+- **Why** - Why you're interested in this company, and show that you researched them.
+- **What** - What you can bring to the table.
+- **When** - When you're available to start, and when they can contact you.
+- **How** - How they can reach you.
+
 # Your Attitude
 # Your Skills
 ## Building Them
