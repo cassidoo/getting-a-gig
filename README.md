@@ -68,6 +68,13 @@ Now, remember, this is just a sample.  You can write a cover letter in any forma
 - **How** - How they can reach you.
 
 # Your Attitude
+
+When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
+
+So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
+
+When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
+
 # Your Skills
 ## Building Them
 ## Selling Them
