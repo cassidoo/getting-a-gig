@@ -78,11 +78,17 @@ When you're talking to companies and recruiters at career fairs and hackathons a
 # Your Skills
 ## Building Them
 ## Selling Them
+# Your Search
+## Events
+## Networking
+### Elevator Pitch
+#### Talking about projects
+
 Which sounds better?
 
-a. Web designer for club website
+a. I'm a web designer for a club website
 
-b. Developed and maintained website for engineering club using HTML, CSS, Javascript, and JQuery to promote the club and give members crucial updates about meetings and events. In three months, our club gained 23 new members, and the website received 5000 hits.
+b. I developed and maintained website for engineering club using HTML, CSS, Javascript, and JQuery to promote the club and give members crucial updates about meetings and events. In three months, our club gained 23 new members, and the website received 5000 hits.
 
 It's obvious - b sounds way better. Having skills and experience is one thing. Selling them is an entirely different art. When you're describing a skill - whether it's on a resume or in an interview, ask yourself:
 
@@ -92,9 +98,6 @@ It's obvious - b sounds way better. Having skills and experience is one thing. S
 - **Why?** - To save the world? For a hackathon? School project?
 - **Impact?** - How is the world different because of your project/internship/club/etc.? Quantify it, if you can - numbers of website hits, etc.
 
-# Your Search
-## Events
-## Networking
 ## Fellowships
 ## Cold Calling
 # Conclusion
