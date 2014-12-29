@@ -76,7 +76,40 @@ So.  I won't spend much time on this.  But I want to emphasize something: **You'
 When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
 
 # Your Skills
+
+Obviously, your skills are what a company is buying from you when they you.  So, honing those skills and presenting them in an effective way is *probably* the most important thing in getting a gig.
+
 ## Building Them
+
+Chances are, if you've had a data structures and/or algorithms class, you're already going to do pretty well in the technical interviews.  That is, if you can recall the information you learned.
+
+Here's a checklist of things that you should probably be prepared to know in a technical interview:
+- Data types
+- Array
+- Linked List
+  - Singly Linked
+  - Doubly Linked
+  - Circular Linked
+- Queue
+- Stack
+- Binary Tree
+- Binary Search Tree
+- Heap
+- Graphs
+- Sorting algorithms
+  - Insertion
+  - Selection
+  - Merge
+  - Quick
+- Time Complexities
+
+This guide isn't for teaching you these skills.  But there are several out there that can help.
+- [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
+- [Sorting Algorithms](http://www.sorting-algorithms.com/)
+- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+
+Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
+
 ## Selling Them
 # Your Search
 ## Events
