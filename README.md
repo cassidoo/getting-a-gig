@@ -132,5 +132,20 @@ It's obvious - b sounds way better. Having skills and experience is one thing. S
 - **Impact?** - How is the world different because of your project/internship/club/etc.? Quantify it, if you can - numbers of website hits, etc.
 
 ## Fellowships
+Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
+
+Here's a list of some example fellowship programs.  This is by no means a complete list (feel free to send a pull request or file an issue if there's another you'd like to be added), but it should get you started!
+
+- [CODE2040](http://code2040.org/)
+- [FirstMark Elite](http://firstmarkelite.com/)
+- [First Round Capital](http://university.firstround.com/)
+- [hackNY Fellows](http://apply.hackny.org/)
+- [KPCB Fellows](http://kpcbfellows.com/)
+- [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
+- [NYC Turing Fellows](http://nycturingfellows.org/)
+- [PennApps Fellows](http://www.pennappsfellows.com/)
+- [True Entrepreneur Corps](http://www.trueventures.com/tec/)
+
+
 ## Cold Calling
 # Conclusion
