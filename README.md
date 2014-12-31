@@ -112,7 +112,18 @@ Typically, for an internship or your first job, questions won't get much more sp
 
 ## Selling Them
 # Your Search
+
+You have a resume and cover letter in hand, and you have the skills to make anyone want you.  Now, you just have to find the right gig for you.
+
 ## Events
+
+When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run.
+
+The biggies that you will definitely run into are:
+- Hackathons
+- Meetups
+- Conferences
+
 ## Networking
 ### Elevator Pitch
 #### Talking about projects
