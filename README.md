@@ -120,6 +120,24 @@ Here's some books that might also be useful.
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
 
 ## Selling Them
+
+When you're actively emailing and speaking with recruiters, they're going to ask you a lot of questions that are just checkboxes for what they're looking for in terms of skills.
+
+If you've written anything in a language before, **put it on your resume**.  A lot of companies have parsers that look for specific things that, again, will put a tick on those checkboxes before putting you through to the next round of review.  Now, if you've only ever done "Hello, world!" in Python, don't say that you're a Python ninja or whatever.  You don't want to be thrown into an interview that will only hurt your self-confidence.  Speaking from experience.  Trust me.
+
+When a recruiter or engineer is asking you about a certain project you've done, or how you've used a particular language, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what languages you used, how long was the duration of development for that project, what was the outcome of the project, etc. etc.
+
+For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end.  It's a static site, so a backend wasn't needed.  The website's main function is to promote the club and give members crucial updates about meetings and events, and I update it regularly via a Python script I wrote."  Oh my, you enchanting software engineer, you.  Let me hire you.
+
+When you're talking to companies about specific things you've done, make sure they know:
+- **What?** - What did you make?  What does it do?  What impact has it made?
+- **Why?** - Why did you make it?  Was it for a hackathon, a school project, an open source contribution, or something else?
+- **How?** - With which technologies did you make this?  Did you use a specific API?  What parts of it did you work on?
+- **When?** - Did you do this recently or are you still living off of when you peaked in 10th grade?
+- **Who?** - Did you work on this with anyone?  Who did what?  Who is this for?
+
+Your skills are something that you have, and the reason why you have them is because you've used them in some way.  All you have to do to prove yourself is to explain yourself!  No need to go overboard and brag.  Just be honest, and confident.
+
 # Your Search
 
 You have a resume and cover letter in hand, and you have the skills to make anyone want you.  Now, you just have to find the right gig for you.
@@ -135,21 +153,6 @@ The biggies that you will definitely run into are:
 
 ## Networking
 ### Elevator Pitch
-#### Talking about projects
-
-Which sounds better?
-
-a. I'm a web designer for a club website
-
-b. I developed and maintained website for engineering club using HTML, CSS, Javascript, and JQuery to promote the club and give members crucial updates about meetings and events. In three months, our club gained 23 new members, and the website received 5000 hits.
-
-It's obvious - b sounds way better. Having skills and experience is one thing. Selling them is an entirely different art. When you're describing a skill - whether it's on a resume or in an interview, ask yourself:
-
-- **What?** - Did you create an iPhone app? Complete a project? Found a club?
-- **How?** - Which technologies did you use? Did you use a specific API?
-- **When?** - This past summer? Last year? When you were in preschool?
-- **Why?** - To save the world? For a hackathon? School project?
-- **Impact?** - How is the world different because of your project/internship/club/etc.? Quantify it, if you can - numbers of website hits, etc.
 
 ## Fellowships
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
