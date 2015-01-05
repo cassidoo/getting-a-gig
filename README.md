@@ -107,6 +107,15 @@ This guide isn't for teaching you these skills.  But there are several out there
 - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
 - [Sorting Algorithms](http://www.sorting-algorithms.com/)
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+- [FitCoding](http://www.fitcoding.com/)
+- [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
+- [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
+- [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
+
+Here's some books that might also be useful.
+- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://github.com/kasaquan/book/blob/master/Robert%20Sedgewick%20and%20Kevin%20Wayne%20-%20Algorithms%2C%204th%20edition.pdf)
+- [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
+- [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
 
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
 
