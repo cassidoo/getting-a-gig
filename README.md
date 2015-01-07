@@ -77,7 +77,7 @@ When you're talking to companies and recruiters at career fairs and hackathons a
 
 # Your Skills
 
-Obviously, your skills are what a company is buying from you when they you.  So, honing those skills and presenting them in an effective way is *probably* the most important thing in getting a gig.
+Obviously, your skills are what a company is buying from you when they hire you.  So, honing in those skills and presenting them in an effective way is *probably* the most important thing in getting a gig.
 
 ## Building Them
 
