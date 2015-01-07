@@ -17,9 +17,9 @@ This is a guide for getting a gig in college as a tech major.  I just graduated 
 - Your Search
   - Events
   - Networking
+  - Referrals
   - Fellowships
   - Cold Calling
-  - Referrals
 - Conclusion
 
 # Your Resume
@@ -151,16 +151,41 @@ The biggies that you will definitely run into are:
 - Hackathons
 - Meetups
 - Conferences
+- Career Fairs
 
 So, how do you find these events?  They're happening all the time, you just need to know where to look.  Firstly, ask people in the field.  Talk to a mentor, a fellow student, a professor, a colleague... anyone could come through for you!  I remember my first tech event I went to in college was because I ran into a guy that I met orientation day.  And now he and I are coworkers.  Fancy that.  Anyway, people can get you very far.
 
 Otherwise, when people don't work, we always have the glorious internet leading the way.  There's so many resources out there I definitely can't list them all.  So I'll list just a few.
+- Your School - Yeah, this is kind of an easy shot, but not a lot of people consider their schools as an event generator, when they should.  Go on to your university's website and find the career fair, find a seminar, find a company presentation, find something that will help you learn and meet people.  You'll probably find a lot of options!
 - [Meetup](meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly.  Look for engineering meetups that are hosted **at** companies.  You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
 - [Eventbrite](https://www.eventbrite.com/) - Eventbrite is best for finding events that aren't recurring.  You can often find workshops, networking events, parties, and classes there.  I tend to just search for the term, "tech" or "computer" and the results simply flow.  Like a babbling brook.  Or something.
 - [Major League Hacking](https://mlh.io/) - MLH provides a fairly thorough schedule of university hackathons every semester.  Most of the events on their schedule provide travel reimbursement, but there's so many that you'll likely find one near you!
 - [Lanyrd](http://lanyrd.com/) - Lanyrd is a "social conference directory" that is full of conferences based on almost any topic.  Follow your favorite speakers or search for a particular language or technology, and you'll be set.
 
+Like I mentioned before, there's a lot of resources out there for finding events.  Now that you have places to go to, what do you do there?
+WHAT A CLEVER SEGUE.
+
 ## Networking
+
+The whole point of going to events (besides learning something, of course) is to network.  Meeting and maintaining relationships with people in this industry is essential.
+
+So, how **do** you just network with people?  How do you make it as natural as eating pie on Pi Day?  I'll show you, Bert.
+
+First of all, don't think of it as networking.  You don't want to get the heebie-jeebies.  Think of it as meeting people who like what you like.  When you're at these events, you'll occasionally see groups of people staying in their own groups, not often reaching out to others.  You're not going to do that.  You're going to be a professional, social butterfly.
+
+Follow generally these steps (as casually or formally as the event calls for) when networking:
+
+1. Introduce yourself.  This seems obvious, but you'd be surprised how often people just sort of slide into a conversation without ever actually providing anyone with their name or title.  Go up to people and tell them who you are.
+
+2. Make small talk about tech.  Again, an obvious tip, but important.  You want to know what this person's skills are, and you want them to know yours.  Someday, they might be looking for someone to help them on a project in a language that you know, or vice-versa.  Get the important details out in the open about each other so that not only you can remember each other, but you can help each other out in the future.  And don't forget to have fun with it!
+
+3. Exchange contact information.  If you have no way of finding the person you're talking to again, and they don't have a way of finding you, then you're just wasting a potentially valuable connection.  Whether you give them a business card or an email address, or even a Twitter handle, keep that information!
+
+4. Follow-up.  This is probably **the most important thing I will tell you in this whole guide.**  Hence the bold letters.  So pretty.  Anyway.  Following up is the guaranteed way of leaving an impression with someone.  Whether you email or tweet or InMail or Facebook message or pigeon mail, just sending a simple, "it was nice to meet you!" message is absolutely **vital** when it comes to networking.  I've actually heard stories of people changing their mind about hiring someone based on a follow-up message.  And following up doesn't stop at the "nice to meet you" message.  At some point down the line, it's great practice to send a "how are you doing?" message to someone you're interested in maintaining a relationship with.  For all three of my mentors that I had in college (and to this day), the way we built our relationship was through these sorts of follow-up messages.  **Do them.**
+
+Networking is building relationships, and what you can do with those relationships is up to you.  But we're talking about getting a job.  So let's move on to one of the best ways of getting one, with these relationships.
+
+## Referrals
 
 ## Fellowships
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
@@ -179,7 +204,5 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
 
 ## Cold Calling
-
-## Referrals
 
 # Conclusion
