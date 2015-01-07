@@ -19,6 +19,7 @@ This is a guide for getting a gig in college as a tech major.  I just graduated 
   - Networking
   - Fellowships
   - Cold Calling
+  - Referrals
 - Conclusion
 
 # Your Resume
@@ -151,8 +152,15 @@ The biggies that you will definitely run into are:
 - Meetups
 - Conferences
 
+So, how do you find these events?  They're happening all the time, you just need to know where to look.  Firstly, ask people in the field.  Talk to a mentor, a fellow student, a professor, a colleague... anyone could come through for you!  I remember my first tech event I went to in college was because I ran into a guy that I met orientation day.  And now he and I are coworkers.  Fancy that.  Anyway, people can get you very far.
+
+Otherwise, when people don't work, we always have the glorious internet leading the way.  There's so many resources out there I definitely can't list them all.  So I'll list just a few.
+- [Meetup](meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly.  Look for engineering meetups that are hosted **at** companies.  You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
+- [Eventbrite](https://www.eventbrite.com/) - Eventbrite is best for finding events that aren't recurring.  You can often find workshops, networking events, parties, and classes there.  I tend to just search for the term, "tech" or "computer" and the results simply flow.  Like a babbling brook.  Or something.
+- [Major League Hacking](https://mlh.io/) - MLH provides a fairly thorough schedule of university hackathons every semester.  Most of the events on their schedule provide travel reimbursement, but there's so many that you'll likely find one near you!
+- [Lanyrd](http://lanyrd.com/) - Lanyrd is a "social conference directory" that is full of conferences based on almost any topic.  Follow your favorite speakers or search for a particular language or technology, and you'll be set.
+
 ## Networking
-### Elevator Pitch
 
 ## Fellowships
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
@@ -170,6 +178,8 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [True Entrepreneur Corps](http://www.trueventures.com/tec/)
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
 
-
 ## Cold Calling
+
+## Referrals
+
 # Conclusion
