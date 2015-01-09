@@ -36,6 +36,15 @@ Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recrui
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
 
+### Don't make it a scavenger hunt.
+When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
+
+For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
+
+If you decide to put relevant coursework on your resume, **please**, don't just put course numbers.  Nobody knows what that means.  And nobody is going to go to your university's website to find out exactly what CS229 is.  Put down the course titles, instead!
+
+And finally, put down your graduation date.  So many students I've seen don't put it on there because they are hiding the fact that they're a freshman, or they're "technically a junior if you count the credits."  That doesn't matter.  Trust me.  Just put down your graduation date so that the company knows how much experience you have, and how soon they can potentially pull you in for full-time.
+
 ### Include only certain personal information.
 Companies aren't allowed to ask about your religion, marital status, or race/ethnicity, so you shouldn't include that.  
 
@@ -222,5 +231,6 @@ In addition to these fellowships, several companies offer special programs for y
 - [Microsoft Explore](http://careers.microsoft.com/careers/en/us/university-programs.aspx) (I'm biased because I did this one, but this program is AWESOME)
 - [Google Engineering Practicum](www.google.com/jobs/students/engpracticum)
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
+- [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
 
 # Conclusion
