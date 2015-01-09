@@ -193,6 +193,14 @@ Asking for a referral really depends on your relationship with the referrer.  If
 
 ## Cold Calling
 
+A lot of people are fans of cold calling, which is making unsolicited contact with a person at a company and hoping for something good to come of it.  I admit, I'm not one of those people.  Seems spammy.  But, I'll tell you about some ways to do that anyway, to make your cold calls as potentially successful as possible.
+
+First of all, you should have an email for someone at the company you're looking at.  You could ask around your network for contact information for a given person, or you could just go out on a limb and [test some emails to see if they're valid](http://mailtester.com/).  A lot of companies have fairly standard email address templates (firstname.lastname@company.com, for example), so you can just keep sending a few until you find a legitimate one.  If you need names to test out, you can scour LinkedIn or the company's website to try and find something that works.
+
+Once you have a legitimate email on your hands, get to work on making a personalized message to them.  Emphasis on the personal.  When you're cold calling, you can't have just any standard email template where you stick in the company's name where it fits.  You have to clearly let the person know why you're writing, from where you got their information (if it's not just a random guess, of course), why you would be a good fit for the company (where you will **sell** those awesome skills of yours), and why you think the company is great.  Essentially, you're writing a glorified cover letter.
+
+When the email has been sent, you're done.  If you haven't heard back in a week or two, send a follow-up, but if they still haven't replied after that, chances are they won't reply at all.  And that's okay.  It happens.  That's the territory when it comes to cold calling.
+
 ## Fellowships
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
 
@@ -208,5 +216,11 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [PennApps Fellows](http://www.pennappsfellows.com/)
 - [True Entrepreneur Corps](http://www.trueventures.com/tec/)
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
+
+In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
+
+- [Microsoft Explore](http://careers.microsoft.com/careers/en/us/university-programs.aspx) (I'm biased because I did this one, but this program is AWESOME)
+- [Google Engineering Practicum](www.google.com/jobs/students/engpracticum)
+- [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
 
 # Conclusion
