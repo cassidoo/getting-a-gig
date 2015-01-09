@@ -18,8 +18,8 @@ This is a guide for getting a gig in college as a tech major.  I just graduated 
   - Events
   - Networking
   - Referrals
-  - Fellowships
   - Cold Calling
+  - Fellowships
 - Conclusion
 
 # Your Resume
@@ -187,6 +187,12 @@ Networking is building relationships, and what you can do with those relationshi
 
 ## Referrals
 
+Referrals are your in.  If you can get a referral from an employee of the company you're applying for, that's money.  It pushes you towards the top of the pile of resumes that they're getting every single day.  Using the relationships you've built from networking, all it takes is a simple ask!  You can get a referral from current employees, former ones, interns, former interns, friends of engineers, acquaintances of recruiters... really, anyone who is connected with the company.  If they have a job posting up for a given position, they are looking around for engineers just as much as you're looking around for a great gig!  The company knows that they're going to be speaking with someone potentially really good (because they were recommendedc by someone trusted), and you get to speak to a company for whom you want to work.  Having a referral is a win for both parties.  
+
+Asking for a referral really depends on your relationship with the referrer.  If you know them in a strictly business setting, you might want to send them a more professional request.  But if you know the referrer pretty well, chances are you know how to ask for a favor.  One thing that you must remember though is to, again, **follow up**!  If you haven't heard back from your referrer, reach out and check on your status.  If they let you know that you're in the system, be gracious and take them for coffee or something.  Common courtesy.  You've got this.
+
+## Cold Calling
+
 ## Fellowships
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
 
@@ -202,7 +208,5 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [PennApps Fellows](http://www.pennappsfellows.com/)
 - [True Entrepreneur Corps](http://www.trueventures.com/tec/)
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
-
-## Cold Calling
 
 # Conclusion
