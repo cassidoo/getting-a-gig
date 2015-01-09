@@ -168,7 +168,7 @@ So, how do you find these events?  They're happening all the time, you just need
 
 Otherwise, when people don't work, we always have the glorious internet leading the way.  There's so many resources out there I definitely can't list them all.  So I'll list just a few.
 - Your School - Yeah, this is kind of an easy shot, but not a lot of people consider their schools as an event generator, when they should.  Go on to your university's website and find the career fair, find a seminar, find a company presentation, find something that will help you learn and meet people.  You'll probably find a lot of options!
-- [Meetup](meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly.  Look for engineering meetups that are hosted **at** companies.  You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
+- [Meetup](http://www.meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly.  Look for engineering meetups that are hosted **at** companies.  You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
 - [Eventbrite](https://www.eventbrite.com/) - Eventbrite is best for finding events that aren't recurring.  You can often find workshops, networking events, parties, and classes there.  I tend to just search for the term, "tech" or "computer" and the results simply flow.  Like a babbling brook.  Or something.
 - [Major League Hacking](https://mlh.io/) - MLH provides a fairly thorough schedule of university hackathons every semester.  Most of the events on their schedule provide travel reimbursement, but there's so many that you'll likely find one near you!
 - [Lanyrd](http://lanyrd.com/) - Lanyrd is a "social conference directory" that is full of conferences based on almost any topic.  Follow your favorite speakers or search for a particular language or technology, and you'll be set.
@@ -231,7 +231,7 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
 
 - [Microsoft Explore](http://careers.microsoft.com/careers/en/us/university-programs.aspx) (I'm biased because I did this one, but this program is AWESOME)
-- [Google Engineering Practicum](www.google.com/jobs/students/engpracticum)
+- [Google Engineering Practicum](https://www.google.com/jobs/students/engpracticum)
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
 - [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
 - [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
