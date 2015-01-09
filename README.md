@@ -83,6 +83,8 @@ When you're internship/job hunting, it's very easy to feel down if you don't hea
 
 So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
 
+Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own, or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
+
 When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
 
 # Your Skills
@@ -232,5 +234,19 @@ In addition to these fellowships, several companies offer special programs for y
 - [Google Engineering Practicum](www.google.com/jobs/students/engpracticum)
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
 - [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
+- [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
 
 # Conclusion
+
+So, cliché parting words.  Work hard, stay healthy, and be yourself!  All of these phrases are said a lot for a reason.  
+
+You are in an incredibly challenging field that forces you to think in ways that many can't even fathom.  You're constantly pushing the limits of logic and creativity, as well as technology itself.  You've made SUCH an exciting choice to pursue this!  It will be hard.  You're going to want to give up at times.  I certainly did.  But, it'll all be worth it in the end when you've finally **earned** the gig of your dreams.
+
+When I tell you to stay healthy, it's something that you might not consider when you're working until 3AM on a programming problem or trying to survive with 21 credits of technical classes.  We've all been there.  At times, it feels like it's the only way to get ahead.  But guess what: it's not!  Try to have a decent sleep schedule (as in, more than 3 hours a night) and eating schedule, too.  It'll keep you from burning out, and it's proven that it'll keep you alert and focused, which is essential for interview season!
+
+My favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
+Everyone wants to be great, in their own way.  When I say to "be yourself," I mean that I want you to show people who you are, what you're passionate about, and what you strive to be!  If you keep your personal goals in mind as you work towards them, everything will fall into place, and you can truly **soar** into a great career.
+
+Alright, I've said my piece.  Go get 'em.  I hope that you find this guide useful as you go out to create change and be the best that you can be!
+
+**Good luck!**
