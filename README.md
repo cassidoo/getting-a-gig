@@ -219,7 +219,7 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 
 - [CODE2040](http://code2040.org/)
 - [FirstMark Elite](http://firstmarkelite.com/)
-- [First Round Capital](http://university.firstround.com/)
+- [First Round Capital](http://www.university.firstround.com/)
 - [hackNY Fellows](http://apply.hackny.org/)
 - [KPCB Fellows](http://kpcbfellows.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
