@@ -131,6 +131,8 @@ Here's some books that might also be useful.
 
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
 
+Make sure you are able to implement and use those above data structures on a simple text editor. Technical interviews in the office involve coding on the white board and technical interviews via a phone call involve coding on a plain live text editor - essentially a Google Document. Both kinds of interviews will not give you access to autocomplete, autoformatting, or autocompile to check for compiler errors. This means that you should prepare to code without the help of those fancy features.
+
 ## Selling Them
 
 When you're actively emailing and speaking with recruiters, they're going to ask you a lot of questions that are just checkboxes for what they're looking for in terms of skills.
