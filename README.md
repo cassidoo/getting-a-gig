@@ -39,7 +39,7 @@ When you're a first semester freshman, it's okay to have old high school stuff o
 ### Don't make it a scavenger hunt.
 When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
 
-For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
+For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more! Make sure the URLs are both easy to remember and convenient to type. Having a long, alphanumeric URL is not going to help your case. LinkedIn allows you to create a shorter link to your LinkedIn profile and you can use either tiny.cc or bit.ly to shorten links to portfolios.
 
 If you decide to put relevant coursework on your resume, **please**, don't just put course numbers.  Nobody knows what that means.  And nobody is going to go to your university's website to find out exactly what CS229 is.  Put down the course titles, instead!
 
