@@ -131,7 +131,7 @@ Here's some books that might also be useful.
 
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
 
-Make sure you are able to implement and use those above data structures on a simple text editor. Technical interviews in the office involve coding on the white board and technical interviews via a phone call involve coding on a plain live text editor - essentially a Google Document. Both kinds of interviews will not give you access to autocomplete, autoformatting, or autocompile to check for compiler errors. This means that you should prepare to code without the help of those fancy features.
+Make sure you're able to implement and use the above data structures without the assistance of an IDE. Typically, onsite technical interviews involve coding on paper or a whiteboard, and phone/video interviews usually involve some kind of collaborative text editor. Yes, that means you won't have access to auto-complete, auto-compiling, or the internet to check for errors. So be ready for that!
 
 ## Selling Them
 
@@ -144,13 +144,11 @@ When a recruiter or engineer is asking you about a certain project you've done, 
 For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end.  It's a static site, so a backend wasn't needed.  The website's main function is to promote the club and give members crucial updates about meetings and events, and I update it regularly via a Python script I wrote."  Oh my, you enchanting software engineer, you.  Let me hire you.
 
 When you're talking to companies about specific things you've done, make sure they know:
-- **What?** - What did you make?  What does it do?  What impact has it made? *
+- **What?** - What? - What did you make? What does it do? What impact has it made? What was the hardest part? What could you have done better?
 - **Why?** - Why did you make it?  Was it for a hackathon, a school project, an open source contribution, or something else?
 - **How?** - With which technologies did you make this?  Did you use a specific API?  What parts of it did you work on?
 - **When?** - Did you do this recently or are you still living off of when you peaked in 10th grade?
 - **Who?** - Did you work on this with anyone?  Who did what?  Who is this for?
-
-*Possible 'What?' follow-up questions you should prepare for: What was the most challenging or difficult part of this project? What could you have done better?
 
 Your skills are something that you have, and the reason why you have them is because you've used them in some way.  All you have to do to prove yourself is to explain yourself!  No need to go overboard and brag.  Just be honest, and confident.
 
