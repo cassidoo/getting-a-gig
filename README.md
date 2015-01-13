@@ -8,13 +8,13 @@ This is a guide for getting a gig in college as a tech major.  I just graduated 
 
 # Contents
 - Introduction (you read that already)
-- Your Resume
-- Your Cover Letter
-- Your Attitude
-- Your Skills
+- [Your Resume](#your-resume)
+- [Your Cover Letter](#your-cover-letter)
+- [Your Attitude](#your-attitude)
+- [Your Skills](#your-skills)
   - Building Them
   - Selling Them
-- Your Search
+- [Your Search](#your-search)
   - Events
   - Networking
   - Referrals
