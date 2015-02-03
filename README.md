@@ -124,6 +124,7 @@ This guide isn't for teaching you these skills.  But there are several out there
 - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
 - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
 - [Algorithm Implementations](http://algorithm.zone/)
+- [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://github.com/kasaquan/book/blob/master/Robert%20Sedgewick%20and%20Kevin%20Wayne%20-%20Algorithms%2C%204th%20edition.pdf)
