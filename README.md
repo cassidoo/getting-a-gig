@@ -37,7 +37,7 @@ I know that lifeguarding in high school was a good gig that helped you gain peop
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
 
 ### Don't make it a scavenger hunt.
-When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
+When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know.
 
 For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
 
@@ -52,6 +52,12 @@ In terms of contact information: you don't need your mailing address.  That is a
 Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
 
 Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both.  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
+
+## Fit your resume to a single page.
+
+Your resume should _not_ be bigger than one side of A4 paper. Include only stuff relevant to the position you're applying to. You need to impress your potential employer by showing your best work and not everything you've ever done. Longer resumes are advised for professionals, not collage students.
+
+If you want to show everything you've ever done, make an online portfolio and put a link to it in your resume. You don't need to make a lot of attention in making the design look amazing (unless, of course, you're looking a designer position). A simple static HTML page is more than enough.
 
 # Your Cover Letter
 
@@ -250,7 +256,7 @@ You are in an incredibly challenging field that forces you to think in ways that
 
 When I tell you to stay healthy, it's something that you might not consider when you're working until 3AM on a programming problem or trying to survive with 21 credits of technical classes.  We've all been there.  At times, it feels like it's the only way to get ahead.  But guess what: it's not!  Try to have a decent sleep schedule (as in, more than 3 hours a night) and eating schedule, too.  It'll keep you from burning out, and it's proven that it'll keep you alert and focused, which is essential for interview season!
 
-My favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
+My favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar."
 Everyone wants to be great, in their own way.  When I say to "be yourself," I mean that I want you to show people who you are, what you're passionate about, and what you strive to be!  If you keep your personal goals in mind as you work towards them, everything will fall into place, and you can truly **soar** into a great career.
 
 Alright, I've said my piece.  Go get 'em.  I hope that you find this guide useful as you go out to create change and be the best that you can be!
