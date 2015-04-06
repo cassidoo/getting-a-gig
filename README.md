@@ -32,6 +32,9 @@ Your name has to stand out from everything else, because you want it to be remem
 ### Remove the objective.
 Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
 
+### Keep it to a single page.
+Recruiters are looking for a short summary of you.  They're reading several resumes a day, and if they see something longer than they typically read, they could pass over yours for something more concise!  If you'd like to say more, put a link to a personal website or portfolio for someone to find it.  A resume is a summary, not a tome.
+
 ### Remove irrelevant information.
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
