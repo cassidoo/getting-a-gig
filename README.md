@@ -4,7 +4,7 @@ Getting a Gig: A Guide
 # Introduction
 
 Hey friends!
-This is a guide for getting a gig in college as a tech major.  I just graduated this past school year with 10 job offers after having 5 internships throughout my four years of college.  You can do that, too.  Because you're great.
+This is a guide for getting a gig in college as a tech major.  I graduated May 2014 with 10 job offers after having 5 internships throughout my four years of college.  You can do that, too.  Because you're great.
 
 # Contents
 - Introduction (you read that already)
