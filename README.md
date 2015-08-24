@@ -130,7 +130,7 @@ This guide isn't for teaching you these skills.  But there are several out there
 - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 Here's some books that might also be useful.
-- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://github.com/kasaquan/book/blob/master/Robert%20Sedgewick%20and%20Kevin%20Wayne%20-%20Algorithms%2C%204th%20edition.pdf)
+- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 - [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
 - [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
