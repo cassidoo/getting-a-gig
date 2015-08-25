@@ -131,6 +131,7 @@ This guide isn't for teaching you these skills.  But there are several out there
 
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
+- [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 - [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
 - [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
