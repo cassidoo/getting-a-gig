@@ -4,7 +4,7 @@ Getting a Gig: A Guide
 # Introduction
 
 Hey friends!
-This is a guide for getting a gig in college as a tech major.  I just graduated this past school year with 10 job offers after having 5 internships throughout my four years of college.  You can do that, too.  Because you're great.
+This is a guide for getting a gig in college as a tech major.  I graduated May 2014 with 10 job offers after having 5 internships throughout my four years of college.  You can do that, too.  Because you're great.
 
 # Contents
 - Introduction (you read that already)
@@ -32,6 +32,9 @@ Your name has to stand out from everything else, because you want it to be remem
 ### Remove the objective.
 Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
 
+### Keep it to a single page.
+Recruiters are looking for a short summary of you.  They're reading several resumes a day, and if they see something longer than they typically read, they could pass over yours for something more concise!  If you'd like to say more, put a link to a personal website or portfolio for someone to find it.  A resume is a summary, not a tome.
+
 ### Remove irrelevant information.
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
@@ -57,17 +60,17 @@ Though there's some who might disagree, you should **include your GPA.**  If you
 
 Your cover letter is your written sales pitch.  You've got a resume that summarizes everything.  Now you have to write out a more complete, professional description of you and what you can offer a given company.  Here's a sample cover letter to get you started:
 
-```
-Dear _________,
 
-I hope your day is going well! My name is _________, and I'm a _________ at _________. I am very interested in working for _________ next _________. Your commitment to _________ and _________ that I saw on the website inspired me! The products you build and the values you stand for make _________ seem like an ideal workplace for me.
+> Dear _________,
+>
+> I hope your day is going well! My name is _________, and I'm a _________ at _________. I am very interested in working for _________ next _________. Your commitment to _________ and _________ that I saw on the website inspired me! The products you build and the values you stand for make _________ seem like an ideal workplace for me.
 A little about me, I [insert relevant work experience, extracurriculars, and projects here]. I think these experiences would make me a great candidate for you.
+>
+> Please let me know if there's anything else you need from me. I look forward to hearing from you! I can be reached at _________ and _________.
+>
+> Best regards,
+> _________
 
-Please let me know if there's anything else you need from me. I look forward to hearing from you! I can be reached at _________ and _________.
-
-Best regards,
-_________
-```
 Now, remember, this is just a sample.  You can write a cover letter in any format you'd like.  But, you should be sure to include the following:
 
 - **Who** - Who you are.  Easy enough.
@@ -124,9 +127,11 @@ This guide isn't for teaching you these skills.  But there are several out there
 - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
 - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
 - [Algorithm Implementations](http://algorithm.zone/)
+- [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 Here's some books that might also be useful.
-- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://github.com/kasaquan/book/blob/master/Robert%20Sedgewick%20and%20Kevin%20Wayne%20-%20Algorithms%2C%204th%20edition.pdf)
+- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
+- [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 - [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
 - [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
