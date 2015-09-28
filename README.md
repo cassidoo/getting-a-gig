@@ -226,17 +226,18 @@ Fellowships are a great way to network with a community and get valuable mentors
 
 Here's a list of some example fellowship programs.  This is by no means a complete list (feel free to send a pull request or file an issue if there's another you'd like to be added), but it should get you started!
 
+- [Cansbridge Fellowship](http://www.cansbridgefellowship.com/)
 - [CODE2040](http://code2040.org/)
 - [FirstMark Elite](http://firstmarkelite.com/)
 - [First Round Capital](http://www.university.firstround.com/)
+- [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
 - [hackNY Fellows](http://apply.hackny.org/)
+- [Knight-Mozilla Fellows](http://opennews.org/fellowships/)
 - [KPCB Fellows](http://kpcbfellows.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
 - [NYC Turing Fellows](http://nycturingfellows.org/)
 - [PennApps Fellows](http://www.pennappsfellows.com/)
 - [True Entrepreneur Corps](http://www.trueventures.com/tec/)
-- [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
-- [Knight-Mozilla Fellows](http://opennews.org/fellowships/)
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
 
