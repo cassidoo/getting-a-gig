@@ -20,7 +20,7 @@ This is a guide for getting a gig in college as a tech major.  I graduated May 2
   - Referrals
   - Cold Calling
   - Fellowships
-- Conclusion
+- [Conclusion](#conclusion)
 
 # Your Resume
 
@@ -100,17 +100,29 @@ Chances are, if you've had a data structures and/or algorithms class, you're alr
 
 Here's a checklist of things that you should probably be prepared to know in a technical interview:
 - Data types
-- Array
-- Linked List
+- Basic Bitwise Operations
+- String Operations
+- Arrays
+- Linked Lists
   - Singly Linked
   - Doubly Linked
   - Circular Linked
-- Queue
-- Stack
-- Binary Tree
-- Binary Search Tree
-- Heap
+- Queues
+- Stacks
+- Heaps
+- Trees
+  - Binary Trees
+  - Binary Search Trees
+  - Tries
+  - Self Balancing Trees
+- Traversing Trees
+  - Breadth First Search - BFS
+  - Depth First Search - DFS
+  - Preorder, Inorder, Postorder
 - Graphs
+  - Dijkstra's Algorithm / A* Search
+- Hash Maps
+  - Handling Collisions
 - Sorting algorithms
   - Insertion
   - Selection
@@ -119,15 +131,21 @@ Here's a checklist of things that you should probably be prepared to know in a t
 - Time Complexities
 
 This guide isn't for teaching you these skills.  But there are several out there that can help.
-- [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
-- [Sorting Algorithms](http://www.sorting-algorithms.com/)
-- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
-- [FitCoding](http://www.fitcoding.com/)
-- [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
-- [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
-- [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-- [Algorithm Implementations](http://algorithm.zone/)
-- [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+
+- General Guides
+  - [Sorting Algorithms](http://www.sorting-algorithms.com/)
+  - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+  - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
+  - [Algorithm Implementations](http://algorithm.zone/)
+  - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- Problem Sets
+  - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
+  - [FitCoding](http://www.fitcoding.com/)
+  - [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
+- Online Judging Systems
+  - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
+  - [HackerRank Online Judge](https://www.hackerrank.com/)
+  - [Project Euler](https://projecteuler.net/) is really nice for making you think about the more abstract problems you'll inevitably encounter during your interviews.
 
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
