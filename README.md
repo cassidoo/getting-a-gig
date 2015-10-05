@@ -130,22 +130,24 @@ Here's a checklist of things that you should probably be prepared to know in a t
   - Quick
 - Time Complexities
 
-This guide isn't for teaching you these skills.  But there are several out there that can help.
+This guide isn't for teaching you these skills.  But there are several guides, problem sets, and practice systems out there that can help.
 
-- General Guides
-  - [Sorting Algorithms](http://www.sorting-algorithms.com/)
-  - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
-  - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-  - [Algorithm Implementations](http://algorithm.zone/)
-  - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-- Problem Sets
-  - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
-  - [FitCoding](http://www.fitcoding.com/)
-  - [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
-- Online Judging Systems
-  - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
-  - [HackerRank Online Judge](https://www.hackerrank.com/)
-  - [Project Euler](https://projecteuler.net/) is really nice for making you think about the more abstract problems you'll inevitably encounter during your interviews.
+**General Guides**
+- [Sorting Algorithms](http://www.sorting-algorithms.com/)
+- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+- [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
+- [Algorithm Implementations](http://algorithm.zone/)
+- [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+
+**Problem Sets**
+- [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
+- [FitCoding](http://www.fitcoding.com/)
+- [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
+
+**Online Judging Systems**
+- [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
+- [HackerRank Online Judge](https://www.hackerrank.com/)
+- [Project Euler](https://projecteuler.net/)
 
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
