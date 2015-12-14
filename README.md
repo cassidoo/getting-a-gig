@@ -44,7 +44,7 @@ When an application reviewer (engineer, recruiter, or otherwise) is looking over
 
 For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
 
-If you decide to put relevant coursework on your resume, **please**, don't just put course numbers.  Nobody knows what that means.  And nobody is going to go to your university's website to find out exactly what CS229 is.  Put down the course titles, instead!
+If you decide to put relevant coursework on your resume, **please**, don't just put course numbers.  Nobody knows what that means.  And nobody is going to go to your university's website to find out exactly what CS229 is.  Put down the course titles instead!
 
 And finally, put down your graduation date.  So many students I've seen don't put it on there because they are hiding the fact that they're a freshman, or they're "technically a junior if you count the credits."  That doesn't matter.  Trust me.  Just put down your graduation date so that the company knows how much experience you have, and how soon they can potentially pull you in for full-time.
 
@@ -224,7 +224,7 @@ Follow generally these steps (as casually or formally as the event calls for) wh
 
 4. Follow-up.  This is probably **the most important thing I will tell you in this whole guide.**  Hence the bold letters.  So pretty.  Anyway.  Following up is the guaranteed way of leaving an impression with someone.  Whether you email or tweet or InMail or Facebook message or pigeon mail, just sending a simple, "it was nice to meet you!" message is absolutely **vital** when it comes to networking.  I've actually heard stories of people changing their mind about hiring someone based on a follow-up message.  And following up doesn't stop at the "nice to meet you" message.  At some point down the line, it's great practice to send a "how are you doing?" message to someone you're interested in maintaining a relationship with.  For all three of my mentors that I had in college (and to this day), the way we built our relationship was through these sorts of follow-up messages.  **Do them.**
 
-Networking is building relationships, and what you can do with those relationships is up to you.  But we're talking about getting a job.  So let's move on to one of the best ways of getting one, with these relationships.
+Networking is about building relationships, and what you can do with those relationships is up to you.  But we're talking about getting a job.  So let's move on to one of the best ways of getting one, with these relationships.
 
 ## Referrals
 
