@@ -267,6 +267,7 @@ In addition to these fellowships, several companies offer special programs for y
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
 - [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
 - [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
+- [Pinterest Engage Software Engineer Intern] (https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
 
 # Conclusion
 
