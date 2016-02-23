@@ -149,6 +149,12 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [HackerRank Online Judge](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
 
+**Mock Interviews**
+- [Pramp](https://www.pramp.com) - free
+- [Careercup](http://www.careercup.com/interview) - paid
+- [Gainlo](http://www.gainlo.co/) - paid
+- [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
+
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
 - [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
