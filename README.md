@@ -258,6 +258,7 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [FirstMark Elite](http://firstmarkelite.com/)
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
 - [hackNY Fellows](http://apply.hackny.org/)
+- [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
 - [KPCB Fellows](http://kpcbfellows.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
 - [PennApps Fellows](http://www.pennappsfellows.com/)
