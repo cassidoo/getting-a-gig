@@ -136,7 +136,6 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Sorting Algorithms](http://www.sorting-algorithms.com/)
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-- [Algorithm Implementations](http://algorithm.zone/)
 - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 **Problem Sets**
