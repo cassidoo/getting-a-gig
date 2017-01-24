@@ -3,4 +3,4 @@ rvm: 2.3.3
 before_script: 
     - gem install awesome_bot
 script:
-    - awesome_bot --allow-redirect README.md --whitelist travis-ci
+    - awesome_bot --allow-redirect README.md
