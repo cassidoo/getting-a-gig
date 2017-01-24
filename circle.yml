@@ -5,4 +5,4 @@ test:
     pre:
         - gem install awesome_bot
     override:
-        awesome_bot --allow-redirect README.md
+        - awesome_bot --allow-redirect --allow-ssl README.md
