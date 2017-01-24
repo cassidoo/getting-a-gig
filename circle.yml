@@ -1,0 +1,8 @@
+machine:
+    ruby:
+        version: 2.3.3
+test:
+    pre:
+        - gem install awesome_bot
+    override:
+        awesome_bot --allow-redirect README.md
