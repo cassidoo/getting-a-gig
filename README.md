@@ -40,7 +40,7 @@ I know that lifeguarding in high school was a good gig that helped you gain peop
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
 
 ### Don't make it a scavenger hunt.
-When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
+When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know.
 
 For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
 
@@ -136,7 +136,6 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Sorting Algorithms](http://www.sorting-algorithms.com/)
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-- [Algorithm Implementations](http://algorithm.zone/)
 - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 **Problem Sets**
@@ -256,15 +255,15 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [Cansbridge Fellowship](http://www.cansbridgefellowship.com/)
 - [CODE2040](http://code2040.org/)
 - [FirstMark Elite](http://firstmarkelite.com/)
-- [First Round Capital](http://www.university.firstround.com/)
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
 - [hackNY Fellows](http://apply.hackny.org/)
-- [Knight-Mozilla Fellows](http://opennews.org/fellowships/)
+- [Horizons Fellowship](http://www.horizonsbootcamp.com/fellowship)
+- [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
 - [KPCB Fellows](http://kpcbfellows.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
-- [NYC Turing Fellows](http://nycturingfellows.org/)
 - [PennApps Fellows](http://www.pennappsfellows.com/)
 - [True Entrepreneur Corps](http://www.trueventures.com/tec/)
+- [Venture for America](http://ventureforamerica.org/)
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
 
@@ -283,7 +282,7 @@ You are in an incredibly challenging field that forces you to think in ways that
 
 When I tell you to stay healthy, it's something that you might not consider when you're working until 3AM on a programming problem or trying to survive with 21 credits of technical classes.  We've all been there.  At times, it feels like it's the only way to get ahead.  But guess what: it's not!  Try to have a decent sleep schedule (as in, more than 3 hours a night) and eating schedule, too.  It'll keep you from burning out, and it's proven that it'll keep you alert and focused, which is essential for interview season!
 
-My favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
+My favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar."
 Everyone wants to be great, in their own way.  When I say to "be yourself," I mean that I want you to show people who you are, what you're passionate about, and what you strive to be!  If you keep your personal goals in mind as you work towards them, everything will fall into place, and you can truly **soar** into a great career.
 
 Alright, I've said my piece.  Go get 'em.  I hope that you find this guide useful as you go out to create change and be the best that you can be!
