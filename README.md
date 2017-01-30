@@ -267,11 +267,9 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
 
-- [Microsoft Explore](http://careers.microsoft.com/careers/en/us/university-programs.aspx) (I'm biased because I did this one, but this program is AWESOME)
-- [Google Engineering Practicum](https://www.google.com/jobs/students/engpracticum)
+- [Microsoft Explore](https://careers.microsoft.com/students/explore) (I'm biased because I did this one, but this program is AWESOME)
+- [Google Engineering Practicum](https://careers.google.com/students/)
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
-- [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
-- [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
 - [Pinterest Engage Software Engineer Intern] (https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
 
 # Conclusion
