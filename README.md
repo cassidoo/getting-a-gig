@@ -148,6 +148,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
 - [HackerRank Online Judge](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
+- [InterviewBit](https://www.interviewbit.com/)
 
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
