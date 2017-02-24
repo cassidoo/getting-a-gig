@@ -139,6 +139,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 **Problem Sets**
+- [InterviewBit](https://www.interviewbit.com/)
 - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
 - [FitCoding](http://www.fitcoding.com/)
 - [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
