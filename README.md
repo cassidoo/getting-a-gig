@@ -51,7 +51,7 @@ And finally, put down your graduation date.  So many students I've seen don't pu
 ### Include only certain personal information.
 Companies aren't allowed to ask about your religion, marital status, or race/ethnicity, so you shouldn't include that.  
 
-In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
+In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email and **maybe** call.  That's all you need!
 Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
 
 Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both.  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
@@ -86,7 +86,7 @@ When you're internship/job hunting, it's very easy to feel down if you don't hea
 
 So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
 
-Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own, or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
+Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
 
 When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
 
