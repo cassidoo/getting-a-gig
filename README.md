@@ -1,6 +1,11 @@
 Getting a Gig: A Guide
 =============
 
+<!--Badges-->
+<!--CI Badges-->
+[![TravisCI](https://travis-ci.org/cassidoo/getting-a-gig.svg?branch=master)](https://travis-ci.org/cassidoo/getting-a-gig)
+[![CircleCI](https://circleci.com/gh/cassidoo/getting-a-gig.svg?style=svg)](https://circleci.com/gh/cassidoo/getting-a-gig)
+
 # Introduction
 
 Hey friends!
