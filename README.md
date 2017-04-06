@@ -148,6 +148,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
 - [HackerRank Online Judge](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
+- [InterviewBit](https://www.interviewbit.com/)
 
 **Mock Interviews**
 - [Pramp](https://www.pramp.com) - free
