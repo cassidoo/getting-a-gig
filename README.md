@@ -157,7 +157,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
 
 Here's some books that might also be useful.
-- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
+- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X) [(Free Online Version)](http://algs4.cs.princeton.edu/home/)
 - [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 - [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
