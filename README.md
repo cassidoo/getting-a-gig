@@ -56,6 +56,12 @@ Some great things that you might also want to put on there are your personal web
 
 Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both.  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
 
+## Fit your resume to a single page.
+
+Your resume should _not_ be bigger than one side of A4 paper. Include only stuff relevant to the position you're applying to. You need to impress your potential employer by showing your best work and not everything you've ever done. Longer resumes are advised for professionals, not collage students.
+
+If you want to show everything you've ever done, make an online portfolio and put a link to it in your resume. You don't need to make a lot of attention in making the design look amazing (unless, of course, you're looking a designer position). A simple static HTML page is more than enough.
+
 # Your Cover Letter
 
 Your cover letter is your written sales pitch.  You've got a resume that summarizes everything.  Now you have to write out a more complete, professional description of you and what you can offer a given company.  Here's a sample cover letter to get you started:
