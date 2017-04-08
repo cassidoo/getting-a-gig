@@ -32,6 +32,9 @@ Your name has to stand out from everything else, because you want it to be remem
 ### Remove the objective.
 Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
 
+### Prioritize what you list.
+Prioritizing what you list on your resume based on your best qualities will give you the best chance to stand out in a stack of resumes.  Desirable companies get lots of entry-level resumes, and they don't have time to read every resume corner-to-corner.  In fact, you probably have just a few seconds to make an impression before the recruiter will decide to keep reading or discard your resume.  Given that you have this limited time to make an impression, put your best qualities first.
+
 ### Keep it to a single page.
 Recruiters are looking for a short summary of you.  They're reading several resumes a day, and if they see something longer than they typically read, they could pass over yours for something more concise!  If you'd like to say more, put a link to a personal website or portfolio for someone to find it.  A resume is a summary, not a tome.
 
