@@ -143,6 +143,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [FitCoding](http://www.fitcoding.com/)
 - [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
 - [InterviewBit](https://www.interviewbit.com/)
+- [Tech Interview Handbook - Algorithms](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
 
 **Online Judging Systems**
 - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
