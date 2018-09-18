@@ -274,7 +274,6 @@ In addition to these fellowships, several companies offer special programs for y
 - [Microsoft Explore](https://careers.microsoft.com/students/explore) (I'm biased because I did this one, but this program is AWESOME)
 - [Google Engineering Practicum](https://careers.google.com/students/)
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
-- [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
 
 # Conclusion
 
