@@ -260,6 +260,7 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [CODE2040](http://code2040.org/)
 - [FirstMark Elite](http://firstmarkelite.com/)
 - [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
+- [Hacker Fellows](https://www.hackerfellows.com/)
 - [hackNY Fellows](http://apply.hackny.org/)
 - [Horizons Fellowship](http://www.horizonsbootcamp.com/fellowship)
 - [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
