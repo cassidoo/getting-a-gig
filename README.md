@@ -265,6 +265,7 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 - [Horizons Fellowship](http://www.horizonsbootcamp.com/fellowship)
 - [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
 - [KPCB Fellows](http://kpcbfellows.com/)
+- [8VC Fellows](http://www.8vcfellowship.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
 - [PennApps Fellows](http://www.pennappsfellows.com/)
 - [True Entrepreneur Corps](http://www.trueventures.com/tec/)
