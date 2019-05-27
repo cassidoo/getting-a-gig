@@ -129,6 +129,11 @@ Here's a checklist of things that you should probably be prepared to know in a t
   - Merge
   - Quick
 - Time Complexities
+- Programming Paradigm
+  - Dynamic Programming
+  - Object Oriented Programming
+  - Asynchronous Programming
+  - Functional Programming
 
 This guide isn't for teaching you these skills.  But there are several guides, problem sets, and practice systems out there that can help.
 
@@ -157,6 +162,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Careercup](http://www.careercup.com/interview) - paid
 - [Gainlo](http://www.gainlo.co/) - paid
 - [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
+- [Technical Onsite Interview Survival Guide] (https://hired.com/blog/candidates/technical-onsite-interview-guide/)
 
 Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
