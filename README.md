@@ -278,8 +278,9 @@ Here's a list of some example fellowship programs.  This is by no means a comple
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
 
-- [Microsoft Explore](https://careers.microsoft.com/us/en/usexploremicrosoftprogram) (I'm biased because I did this one, but this program is AWESOME)
+- [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) (I'm biased because I did this one, but this program is AWESOME)
 - [Google Engineering Practicum](https://careers.google.com/students/)
+- [IBM Internships](https://www.ibm.com/us-en/employment/internships/)
 
 # Conclusion
 
