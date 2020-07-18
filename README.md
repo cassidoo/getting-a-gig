@@ -32,7 +32,7 @@ Your name has to stand out from everything else, because you want it to be remem
 
 ### Remove the objective.
 
-Nobody looks at the objective. Nobody. I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them. Use that space to talk about projects you've done, activities you've done, etc.
+Nobody looks at the objective. Nobody. Unless it's unusual. I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them if it's already relevant to the position you're applying for. If you're saying something like, "I want a part-time job so that I can do operatic bird training for the rest of a given week," yeah, that's worth putting an objective in, I guess. But if not, use that space to talk about projects you've done, activities you've done, etc.
 
 ### Keep it to a single page.
 
