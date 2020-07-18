@@ -177,12 +177,10 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 
 Here's some books that might also be useful.
 
-- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
-- [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
+- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/gp/product/032157351X/)
+- [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](https://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
-- [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
-- [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
-- [Cracking the Coding Interview, 6th edition, by Gayle Laakmann McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1443719471&sr=8-1&keywords=coding+interview)
+- [Cracking the Coding Interview, by Gayle Laakmann McDowell](http://www.crackingthecodinginterview.com/w)
 
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role. For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails. That definitely depends on the company, and what you're both looking for.
 
