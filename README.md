@@ -229,7 +229,6 @@ Otherwise, when people don't work, we always have the glorious internet leading 
 - [Meetup](http://www.meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly. Look for engineering meetups that are hosted **at** companies. You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
 - [Eventbrite](https://www.eventbrite.com/) - Eventbrite is best for finding events that aren't recurring. You can often find workshops, networking events, parties, and classes there. I tend to just search for the term, "tech" or "computer" and the results simply flow. Like a babbling brook. Or something.
 - [Major League Hacking](https://mlh.io/) - MLH provides a fairly thorough schedule of university hackathons every semester. Most of the events on their schedule provide travel reimbursement, but there's so many that you'll likely find one near you!
-- [Lanyrd](http://lanyrd.com/) - Lanyrd is a "social conference directory" that is full of conferences based on almost any topic. Follow your favorite speakers or search for a particular language or technology, and you'll be set.
 
 Like I mentioned before, there's a lot of resources out there for finding events. Now that you have places to go to, what do you do there?
 WHAT A CLEVER SEGUE.
