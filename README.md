@@ -291,6 +291,7 @@ Here's a list of some example fellowship programs. This is by no means a complet
 - [Conservation X Labs Epic Fellowships](https://conservationxlabs.com/epic-fellowships)
 - [Pursuit Fellowship ](https://www.pursuit.org/fellowship)
 - [MLH Fellowship](https://fellowship.mlh.io/)
+- [Insight Fellowship](https://insightfellows.com/)
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship. Here's another list that is not complete, but will get you started:
 
