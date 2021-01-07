@@ -292,6 +292,7 @@ Here's a list of some example fellowship programs. This is by no means a complet
 - [Pursuit Fellowship ](https://www.pursuit.org/fellowship)
 - [MLH Fellowship](https://fellowship.mlh.io/)
 - [Insight Fellowship](https://insightfellows.com/)
+- [Just Future Laws](https://justfutureslaw.org/2020-2021-fellowship-program/)
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship. Here's another list that is not complete, but will get you started:
 
