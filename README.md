@@ -155,7 +155,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 
 - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
 - [FitCoding](http://www.fitcoding.com/)
-- [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
+- [Google CodeJam Practice Questions](https://codingcompetitions.withgoogle.com/codejam/archive)
 - [InterviewBit](https://www.interviewbit.com/)
 - [Tech Interview Handbook - Algorithms](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
 
