@@ -157,7 +157,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 - [FitCoding](http://www.fitcoding.com/)
 - [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
 - [InterviewBit](https://www.interviewbit.com/)
-- [Tech Interview Handbook - Algorithms](https://github.com/yangshun/tech-interview-handbook/tree/master/algorithms)
+- [Tech Interview Handbook - Algorithms](https://techinterviewhandbook.org/algorithms/introduction/)
 
 **Online Judging Systems**
 
