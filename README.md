@@ -180,7 +180,7 @@ Here's some books that might also be useful.
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/gp/product/032157351X/)
 - [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](https://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
-- [Cracking the Coding Interview, by Gayle Laakmann McDowell](http://www.crackingthecodinginterview.com/w)
+- [Cracking the Coding Interview, by Gayle Laakmann McDowell](http://www.crackingthecodinginterview.com/)
 
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role. For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails. That definitely depends on the company, and what you're both looking for.
 
