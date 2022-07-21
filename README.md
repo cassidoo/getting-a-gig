@@ -150,6 +150,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
 - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- [Time Complexity Analysis in Data Structure](https://www.scaler.com/topics/data-structures/time-complexity-in-data-structure/)
 
 **Problem Sets**
 
