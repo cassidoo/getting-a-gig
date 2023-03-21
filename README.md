@@ -142,7 +142,7 @@ Here's a checklist of things that you should probably be prepared to know in a t
   - Asynchronous Programming
   - Functional Programming
 
-This guide isn't for teaching you these skills. But there are several guides, problem sets, and practice systems out there that can help.
+This guide isn't for teaching you these skills. But there are several guides, problem sets, companies, and practice systems out there that can help.
 
 **General Guides**
 
@@ -151,6 +151,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 - [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
 - [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 - [Time Complexity Analysis in Data Structure](https://www.scaler.com/topics/data-structures/time-complexity-in-data-structure/)
+- [Technical Onsite Interview Survival Guide](https://hired.com/blog/candidates/technical-onsite-interview-guide/)
 
 **Problem Sets**
 
@@ -174,7 +175,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 - [Careercup](http://www.careercup.com/interview) - paid
 - [Gainlo](http://www.gainlo.co/) - paid
 - [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
-- [Technical Onsite Interview Survival Guide](https://hired.com/blog/candidates/technical-onsite-interview-guide/)
+- [Meetapro](https://meetapro.com/) - paid
 
 Here's some books that might also be useful.
 
