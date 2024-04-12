@@ -265,7 +265,7 @@ Asking for a referral really depends on your relationship with the referrer. If 
 
 A lot of people are fans of cold calling, which is making unsolicited contact with a person at a company and hoping for something good to come of it. I admit, I'm not one of those people. Seems spammy. But, I'll tell you about some ways to do that anyway, to make your cold calls as potentially successful as possible.
 
-First of all, you should have an email for someone at the company you're looking at. You could ask around your network for contact information for a given person, or you could just go out on a limb and [test some emails to see if they're valid](http://mailtester.com/). A lot of companies have fairly standard email address templates (firstname.lastname@company.com, for example), so you can just keep sending a few until you find a legitimate one. If you need names to test out, you can scour LinkedIn or the company's website to try and find something that works. There are also [many free tools to find someone's email address, given their LinkedIn profile](http://unusuallydifficult.com/guide/finding-someones-email-address/).
+First of all, you should have an email for someone at the company you're looking at. You could ask around your network for contact information for a given person, or you could just go out on a limb and [test some emails to see if they're valid](http://mailtester.com/). A lot of companies have fairly standard email address templates (`firstname.lastname@company.com`, for example), so you can just keep sending a few until you find a legitimate one. If you need names to test out, you can scour LinkedIn or the company's website to try and find something that works. There are also [many free tools to find someone's email address, given their LinkedIn profile](http://unusuallydifficult.com/guide/finding-someones-email-address/).
 
 Once you have a legitimate email on your hands, get to work on making a personalized message to them. Emphasis on the personal. When you're cold calling, you can't have just any standard email template where you stick in the company's name where it fits. You have to clearly let the person know why you're writing, from where you got their information (if it's not just a random guess, of course), why you would be a good fit for the company (where you will **sell** those awesome skills of yours), and why you think the company is great. Essentially, you're writing a glorified cover letter.
 
@@ -279,13 +279,8 @@ Here's a list of some example fellowship programs. This is by no means a complet
 
 - [Cansbridge Fellowship](http://www.cansbridgefellowship.com/)
 - [CODE2040](http://code2040.org/)
-- [FirstMark Elite](http://firstmarkelite.com/)
-- [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
-- [Hacker Fellows](https://www.hackerfellows.com/)
+- [Tech + Society Fellowship](https://foundation.mozilla.org/en/what-we-fund/fellowships/fellows-for-tech-and-society/)
 - [hackNY Fellows](https://hackny.org/fellows-program)
-- [Horizons Fellowship](http://www.horizonsbootcamp.com/fellowship)
-- [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
-- [KPCB Fellows](http://kpcbfellows.com/)
 - [8VC Fellows](http://www.8vcfellowship.com/)
 - [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
 - [True Entrepreneur Corps](https://trueventures.com/true-platform/fellowships/tec)
@@ -294,12 +289,11 @@ Here's a list of some example fellowship programs. This is by no means a complet
 - [Pursuit Fellowship ](https://www.pursuit.org/fellowship)
 - [MLH Fellowship](https://fellowship.mlh.io/)
 - [Insight Fellowship](https://insightfellows.com/)
-- [Just Future Laws](https://justfutureslaw.org/2020-2021-fellowship-program/)
 
 In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship. Here's another list that is not complete, but will get you started:
 
 - [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) (I'm biased because I did this one, but this program is AWESOME)
-- [Google Engineering Practicum](https://careers.google.com/students/)
+- [Google STEP (Student Training in Engineering Program)](STEP (Student Training in Engineering Program))
 
 # Conclusion
 
