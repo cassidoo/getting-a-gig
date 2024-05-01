@@ -148,22 +148,20 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 
 - [Sorting Algorithms](http://www.sorting-algorithms.com/)
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
-- [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-- [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- [Top 10 Algorithms for coding interviews](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 - [Time Complexity Analysis in Data Structure](https://www.scaler.com/topics/data-structures/time-complexity-in-data-structure/)
 - [Technical Onsite Interview Survival Guide](https://hired.com/blog/candidates/technical-onsite-interview-guide/)
 
 **Problem Sets**
 
 - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
-- [FitCoding](http://www.fitcoding.com/)
-- [Google CodeJam Practice Questions](https://codingcompetitions.withgoogle.com/codejam/archive)
+- [Google CodeJam Practice Questions](https://zibada.guru/gcj/)
 - [InterviewBit](https://www.interviewbit.com/)
 - [Tech Interview Handbook - Algorithms](https://techinterviewhandbook.org/algorithms/introduction/)
 
 **Online Judging Systems**
 
-- [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
+- [LeetCode Online Judge](https://leetcode.com/problemset/algorithms/)
 - [HackerRank Online Judge](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
 - [InterviewBit](https://www.interviewbit.com/)
@@ -179,12 +177,13 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 
 Here's some books that might also be useful.
 
-- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/gp/product/032157351X/)
-- [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](https://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
-- [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
+- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)
+- [Introduction to Algorithms, 4th Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+- [Think Complexity, by Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/)
 - [Cracking the Coding Interview, by Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/)
+- [A Philosophy of Software Design, by John Ousterhout](https://a.co/d/aBvnqrd)
 
-Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role. For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails. That definitely depends on the company, and what you're both looking for.
+Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role. For example, if I wanted to be a mobile intern, I might be asked iOS/Android-specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails. That definitely depends on the company, and what you're both looking for.
 
 Make sure you're able to implement and use the above data structures without the assistance of an IDE. Typically, onsite technical interviews involve coding on paper or a whiteboard, and phone/video interviews usually involve some kind of collaborative text editor. Yes, that means you won't have access to auto-complete, auto-compiling, or the internet to check for errors. So be ready for that!
 
