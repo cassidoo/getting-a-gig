@@ -155,6 +155,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 **Problem Sets**
 
 - [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
+- [Data Structures Questions](https://talenttitan.com/candidates/interview-preparation/all-skills/)
 - [Google CodeJam Practice Questions](https://zibada.guru/gcj/)
 - [InterviewBit](https://www.interviewbit.com/)
 - [Tech Interview Handbook - Algorithms](https://techinterviewhandbook.org/algorithms/introduction/)
