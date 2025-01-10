@@ -158,6 +158,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 - [Google CodeJam Practice Questions](https://zibada.guru/gcj/)
 - [InterviewBit](https://www.interviewbit.com/)
 - [Tech Interview Handbook - Algorithms](https://techinterviewhandbook.org/algorithms/introduction/)
+- [LabEx Technical Interview Questions](https://labex.io/interview-questions)
 
 **Online Judging Systems**
 
@@ -165,6 +166,7 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 - [HackerRank Online Judge](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
 - [InterviewBit](https://www.interviewbit.com/)
+- [LabEx](https://labex.io/interview-questions)
 
 **Mock Interviews**
 
