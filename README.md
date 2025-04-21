@@ -171,10 +171,9 @@ This guide isn't for teaching you these skills. But there are several guides, pr
 **Mock Interviews**
 
 - [Interviewing.io](https://interviewing.io/) - free
-- [Pramp](https://www.pramp.com) - free
+- [Exponent](https://www.tryexponent.com/practice) - free
+- [Keenesse](https://www.keenesse.com/) - paid
 - [Easyclimbtech](https://www.easyclimb.tech) - paid
-- [Careercup](http://www.careercup.com/interview) - paid
-- [Gainlo](http://www.gainlo.co/) - paid
 - [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
 - [Meetapro](https://meetapro.com/) - paid
 
